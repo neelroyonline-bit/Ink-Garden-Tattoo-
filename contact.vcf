@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Full Name
+N:LastName;FirstName;;;
+ORG:Company Name
+TITLE:Job Title
+TEL;TYPE=CELL,VOICE:+1234567890
+EMAIL;TYPE=WORK,INTERNET:email@example.com
+URL:https://www.yourwebsite.com
+NOTE:Add a small bio or extra info here.
+END:VCARD
